@@ -1,5 +1,5 @@
 # Predicting Fantasy Premier League scores
-Creating a model to predict Fantasy Premier League player scores and a dashboard for users to identify high scoring players for their team
+This repository creates the code required to build a model to predict Fantasy Premier League player scores and provide files for an external dashboard.
 
 This project aims to augment user’s ability to select the best possible FPL team by developing:
 1.	A model that predicts number of points scored for each FPL player in each of their upcoming games
