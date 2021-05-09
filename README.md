@@ -5,7 +5,9 @@ This project aims to augment user’s ability to select the best possible FPL te
 1.	A model that predicts number of points scored for each FPL player in each of their upcoming games
 2.	A dashboard that allows users to interact with the prediction data and identify players that would fit in to their team given a set of constraints
 
-Below shows an overview of each script and its purpose.
+Below shows an overview of each script and its purpose. Scripts should be run sequentially to follow how the model was created.
+
+If scoring new data, only script 4 needs to be run.
 
 ---
 
